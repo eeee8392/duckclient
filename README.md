@@ -1,4 +1,3 @@
 # duckclient
-Dm me on discord therapistextreme#3466
-version 1.1 coming next week
-stay safe 
+Made by therapistextreme#3466
+(Click run anyway, if smartscreen comes up its not a virus, review the code for urself)
